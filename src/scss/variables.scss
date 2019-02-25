@@ -1,0 +1,21 @@
+$primary: #484ba7;
+$gray-100: #f8f8f8;
+$secondary: $gray-100;
+
+// Fonts
+//
+$font-family-sans-serif: "Open Sans", -apple-system, BlinkMacSystemFont,
+  "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+  "Segoe UI Emoji", "Segoe UI Symbol";
+
+$body-color: #1d1d1b;
+
+$headings-font-family: serif;
+$headings-font-weight: 700;
+
+$btn-border-radius: 4em;
+$btn-border-radius-lg: $btn-border-radius;
+$btn-border-radius-sm: $btn-border-radius;
+
+$input-bg: $gray-100;
+$input-border-color: $input-bg;
